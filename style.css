@@ -1,0 +1,18 @@
+body
+{
+    color:white;
+    background:red;
+}
+.heading
+{
+    width:80%;
+    font-size:25px ;
+}
+.name_of_objects{
+    color:rgba(255, 255, 0, 0.959);
+}
+#camara{
+width:350px;
+height:300px;
+border:2px dashed brown;          
+}
